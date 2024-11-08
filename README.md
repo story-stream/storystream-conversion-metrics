@@ -1,4 +1,4 @@
-# storystream-conversion-metrics
+# Storystream Conversion Metrics
 A GTM tag to install that allows your StoryStream module to measure conversions
 
 - Log in to your workspace on Tag Manager
